@@ -1,91 +1,90 @@
-# 👨‍💻 Full-Stack Developer Portfolio
-**re-sag** · Remote Full-Stack Engineer · Open to Global & EU Roles
+# Full-Stack Software Engineer
 
-> Building reliable, scalable, and user-focused web applications — from concept to deployment.
+**re-sag** · Remote · Global & EU-Focused
 
----
-
-## 📌 OVERVIEW
-I build modern full-stack applications with clean architecture, type safety, and production-ready workflows. Self-driven and continuously advancing — from solid foundations through mid-level mastery and into senior-level system design. Equipped to contribute immediately and grow with your team.
+Building reliable, well-documented, production-ready applications — from concept to deployment.
 
 ---
 
-## 🛠️ TECH STACK
+## 📌 ABOUT ME
+Self-driven Full-Stack Software Engineer with complete end-to-end capability. I write clean, maintainable code; follow professional standards; prioritize **security hardening** and **performance monitoring**; build fully working projects; and work reliably and independently in remote teams. Fast learner, clear communicator, dedicated to quality and continuous improvement.
+
+---
+
+## 🛠️ LANGUAGES & TOOLS
+
+### Core
+- **HTML5** — Semantic markup, accessibility, forms
+- **CSS3** — Flexbox, Grid, responsive design
+- **JavaScript (ES6+)** — DOM, async/await, Fetch API
+- **TypeScript** — Strict typing, interfaces, generics
+- **Python** — Backend logic, automation
+- **Bash / Terminal** — Navigation, scripts, workflow
 
 ### Frontend
-- **TypeScript** — Strict, type-safe development
-- **React / Next.js** — App Router, Server Components, Caching
-- **Zustand** — Lightweight, predictable state management
-- **Tailwind CSS** — Fast, responsive UI styling
+- **React** — Components, hooks, state management
+- **Next.js** — App Router, caching, middleware, SSR, **performance optimization**
+- **Zustand** — Global state management
+- **Tailwind CSS** — Accessible, responsive UI
 
-### Backend
-- **Python / FastAPI** — High-performance async APIs
-- **Prisma ORM** — Type-safe database access
-- **PostgreSQL** — Relational data storage
-- **WebSockets & Background Tasks** — Real-time & async processing
+### Backend & Data
+- **FastAPI** — Async APIs, WebSockets, auth, validation, **security hardening**
+- **Prisma ORM** — Schema, migrations, type-safe queries
+- **PostgreSQL** — Relational data, indexing, query optimization
 
 ### DevOps & Workflow
-- **Git / GitHub** — Version control, collaboration
-- **Docker** — Containerization & consistent environments
-- **GitHub Actions** — CI/CD automation
-- **Codespaces** — Cloud-based development
+- **Git & GitHub** — Version control, collaboration
+- **Docker** — Containerization, consistent environments
+- **GitHub Actions** — CI/CD, automated test & deploy
+- **pytest** — Backend testing
+- **Jest / Testing Library** — Frontend testing
+- **Markdown** — Documentation & README writing
 
-### Practices
-- Clean Architecture · RESTful APIs · Automated Testing · Error Handling · Security Hardening · Performance Optimization
-
----
-
-## 📂 PROJECT SHOWCASE
-
-### 🚀 Mid-Level Full-Stack Capstone
-**End-to-end full-stack application demonstrating professional development standards**
-
-**What I Built:**
-- ✅ Type-safe frontend with Next.js & TypeScript
-- ✅ FastAPI backend with authentication & data validation
-- ✅ Global state management with Zustand
-- ✅ Modular project structure — scalable & maintainable
-- ✅ CI/CD pipeline — auto-test, build, deploy
-- ✅ Containerized with Docker — runs consistently everywhere
-- ✅ Performance monitoring & security hardening
-
-**Status:** ✅ Completed & Documented
+### Core Practices
+- Clean architecture & modular code structure
+- **🔒 Security Hardening** — Input validation, authentication, data protection, vulnerability awareness
+- **⚡ Performance Monitoring & Optimization** — Load time tracking, efficiency, resource usage, reliability
+- Error handling & graceful degradation
+- Comprehensive documentation & setup guides
+- Remote-first discipline, transparent updates, clear communication
 
 ---
 
-## 📚 LEARNING PATH
+## 📂 FEATURED PROJECT: print-hub
 
-| Phase | Focus | Status |
-|---|---|---|
-| Foundation | Core coding, tools, professional workflows | ✅ Completed |
-| Mid-Level Mastery | Advanced TypeScript, full-stack integration, DevOps, security, testing | ✅ Completed |
-| Senior-Level | Distributed systems, system design, reliability, enterprise architecture | 🔄 In Progress |
+> **Full-Stack Print-on-Demand Marketplace**
 
----
+Complete production-ready e-commerce platform — built end-to-end with reliability, speed, and security at its core.
 
-## 🎯 CURRENT FOCUS
-- Designing distributed systems for reliability & scale
-- Mastering architecture patterns used by high-traffic platforms
-- Building production-grade systems with observability & resilience
-- Preparing for senior & lead-level responsibilities
+**Built with:**
+- TypeScript · Next.js · Tailwind CSS
+- FastAPI · Python · WebSockets
+- Prisma ORM · PostgreSQL
+- Docker · GitHub Actions
 
----
+**Key Capabilities Applied:**
+- ✅ Full type safety across stack
+- ✅ **Security Hardening** — validated inputs, protected routes, safe data handling
+- ✅ **Performance Monitoring** — optimized loading, efficient queries, responsive UI
+- ✅ Clean modular architecture
+- ✅ Automated testing & CI/CD pipeline
+- ✅ Complete setup & usage documentation
 
-## 💼 VALUES
-- **Reliability** — Deliver on time, every time
-- **Clarity** — Clean code, clear documentation, open communication
-- **Growth** — Always learning, always improving
-- **Integrity** — Transparent, honest, accountable
-- **Excellence** — Good enough is not enough
+**Status:** ✅ Completed · Documented · Deploy-Ready
+**Repository:** [github.com/re-sag/print-hub](https://github.com/re-sag/print-hub)
 
 ---
 
 ## 📫 CONNECT
 - **GitHub:** [github.com/re-sag](https://github.com/re-sag)
-- **Portfolio:** This repository
-- **Availability:** Open to remote roles — Full-Time / Part-Time
-- **Timezone:** UTC+8 — flexible alignment with EU / global schedules
+- **Project:** [github.com/re-sag/print-hub](https://github.com/re-sag/print-hub)
+- **Availability:** Open to Full-Time / Part-Time / Contract Roles
+- **Timezone:** UTC+8 — fully flexible for global & EU teams
 
 ---
 
-*"Commit your work to the Lord, and your plans will be established."*
+<p align="center">
+  <em>"Commit your work to the Lord, and your plans will be established."</em><br>
+  <strong>— Proverbs 16:3</strong>
+</p>
+
